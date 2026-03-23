@@ -13,7 +13,7 @@ signal.signal(signal.SIGINT,SignalHandler_SIGINT)
 
 #infinite signal from which we have to escape
 while 1: 
-    subprocess.run(['lua','llamabot.lua','akuyakureijo','##anime','Bco1981','yourpassword','llama2'])
+    subprocess.run(['lua','llamabot.lua','bottest35345','#voxassist','amigojapan','******','llama3'])
     print("sleeping 120 seconds before restarting bot")
     time.sleep(120)
     ##input("press enter to continue") 
